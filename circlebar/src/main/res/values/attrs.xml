@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--自定义圆环-->
+    <declare-styleable name="CircleBar">
+        <!--圆框的颜色-->
+        <attr name="outColor" format="color"/>
+        <!--字体大小-->
+        <attr name="textSize" format="integer"/>
+    </declare-styleable>
+
+</resources>

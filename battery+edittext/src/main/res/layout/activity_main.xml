@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.qiuyi.cn.batteryedittext.MainActivity">
+
+    <com.qiuyi.cn.batteryedittext.BatteryView
+        app:batteryOrientation="vertical"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        app:batteryColor="#000"
+        app:batteryPower="100"
+        android:layout_width="60dp"
+        android:layout_height="100dp"
+        android:id="@+id/view" />
+
+    <com.qiuyi.cn.batteryedittext.Password
+        android:id="@+id/password_view"
+        android:layout_width="240dp"
+        android:layout_height="50dp"
+        android:background="@null"
+        android:cursorVisible="false"
+        android:inputType="number"
+        android:maxLength="6"
+        app:passwordLength="6"
+        app:borderWidth="2dp"
+        app:passwordWidth="6dp"
+        app:passwordColor="#ffff0000"
+        app:borderColor="#ff000000"
+        android:layout_below="@+id/view"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="76dp" />
+
+</RelativeLayout>

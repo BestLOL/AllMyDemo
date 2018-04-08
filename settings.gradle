@@ -1,0 +1,1 @@
+include ':app', ':phonesms', ':glass', ':sharedpreferencedemo', ':mydialog', ':gesture', ':suspensionwindow', ':interlock', ':glidetest', ':glidetest2', ':myviewgroup', ':mysqlite', ':myviewgroup_recyclerview', ':battery+edittext', ':filemanager', ':circlebar', ':phonebkrt', ':myloadingdialog'

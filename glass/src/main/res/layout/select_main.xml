@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <RadioGroup
+        android:id="@+id/radioG"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RadioButton
+            android:id="@+id/radio1"
+            android:text="glide-transformations + gilde"
+            android:background="@drawable/select"
+            android:textColor="#fff"
+            android:button="@null"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+        <RadioButton
+            android:id="@+id/radio2"
+            android:text="anroid-image-blur"
+            android:background="@drawable/select"
+            android:textColor="#fff"
+            android:button="@null"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+        <RadioButton
+            android:id="@+id/radio3"
+            android:text="ImageBlurringJAVA"
+            android:background="@drawable/select"
+            android:textColor="#fff"
+            android:button="@null"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+        <RadioButton
+            android:id="@+id/radio4"
+            android:text="ImageBlurringC1"
+            android:background="@drawable/select"
+            android:textColor="#fff"
+            android:button="@null"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+        <RadioButton
+            android:id="@+id/radio5"
+            android:text="ImageBlurringC2"
+            android:background="@drawable/select"
+            android:textColor="#fff"
+            android:button="@null"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+    </RadioGroup>
+
+
+</LinearLayout>

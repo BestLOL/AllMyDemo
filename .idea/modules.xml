@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AllMyDemo.iml" filepath="$PROJECT_DIR$/AllMyDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/battery+edittext/battery+edittext.iml" filepath="$PROJECT_DIR$/battery+edittext/battery+edittext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circlebar/circlebar.iml" filepath="$PROJECT_DIR$/circlebar/circlebar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filemanager/filemanager.iml" filepath="$PROJECT_DIR$/filemanager/filemanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gesture/gesture.iml" filepath="$PROJECT_DIR$/gesture/gesture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glass/glass.iml" filepath="$PROJECT_DIR$/glass/glass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glidetest/glidetest.iml" filepath="$PROJECT_DIR$/glidetest/glidetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glidetest2/glidetest2.iml" filepath="$PROJECT_DIR$/glidetest2/glidetest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interlock/interlock.iml" filepath="$PROJECT_DIR$/interlock/interlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydialog/mydialog.iml" filepath="$PROJECT_DIR$/mydialog/mydialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myloadingdialog/myloadingdialog.iml" filepath="$PROJECT_DIR$/myloadingdialog/myloadingdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysqlite/mysqlite.iml" filepath="$PROJECT_DIR$/mysqlite/mysqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myviewgroup/myviewgroup.iml" filepath="$PROJECT_DIR$/myviewgroup/myviewgroup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myviewgroup_recyclerview/myviewgroup_recyclerview.iml" filepath="$PROJECT_DIR$/myviewgroup_recyclerview/myviewgroup_recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phonebkrt/phonebkrt.iml" filepath="$PROJECT_DIR$/phonebkrt/phonebkrt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phonesms/phonesms.iml" filepath="$PROJECT_DIR$/phonesms/phonesms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharedpreferencedemo/sharedpreferencedemo.iml" filepath="$PROJECT_DIR$/sharedpreferencedemo/sharedpreferencedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/suspensionwindow/suspensionwindow.iml" filepath="$PROJECT_DIR$/suspensionwindow/suspensionwindow.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/myLayout"
+    android:gravity="center"
+    tools:context="com.qiuyi.cn.suspensionwindow.MainActivity">
+
+<!--    字体阴影设置
+    android:shadowColor="#000"
+    android:shadowRadius="5"
+    android:shadowDx="40"
+    android:shadowDy="40"-->
+
+    <TextView
+        android:id="@+id/myText"
+        android:text="悬浮窗"
+        android:textColor="#fff"
+        android:gravity="center"
+        android:paddingRight="15dp"
+        android:paddingBottom="15dp"
+        android:background="@drawable/suspension_circle"
+        android:layout_width="120dp"
+        android:layout_height="120dp" />
+
+
+</LinearLayout>
