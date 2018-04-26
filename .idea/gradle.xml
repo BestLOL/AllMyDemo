@@ -17,6 +17,8 @@
             <option value="$PROJECT_DIR$/glidetest" />
             <option value="$PROJECT_DIR$/glidetest2" />
             <option value="$PROJECT_DIR$/interlock" />
+            <option value="$PROJECT_DIR$/mvp" />
+            <option value="$PROJECT_DIR$/mvp+retrofit+rxjava" />
             <option value="$PROJECT_DIR$/mydialog" />
             <option value="$PROJECT_DIR$/myloadingdialog" />
             <option value="$PROJECT_DIR$/mysqlite" />
@@ -24,8 +26,12 @@
             <option value="$PROJECT_DIR$/myviewgroup_recyclerview" />
             <option value="$PROJECT_DIR$/phonebkrt" />
             <option value="$PROJECT_DIR$/phonesms" />
+            <option value="$PROJECT_DIR$/recyclerview+checkbox" />
+            <option value="$PROJECT_DIR$/retrofit" />
+            <option value="$PROJECT_DIR$/rxjava" />
             <option value="$PROJECT_DIR$/sharedpreferencedemo" />
             <option value="$PROJECT_DIR$/suspensionwindow" />
+            <option value="$PROJECT_DIR$/wifi+temperature+magnetic" />
           </set>
         </option>
         <option name="myModules">
@@ -40,6 +46,8 @@
             <option value="$PROJECT_DIR$/glidetest" />
             <option value="$PROJECT_DIR$/glidetest2" />
             <option value="$PROJECT_DIR$/interlock" />
+            <option value="$PROJECT_DIR$/mvp" />
+            <option value="$PROJECT_DIR$/mvp+retrofit+rxjava" />
             <option value="$PROJECT_DIR$/mydialog" />
             <option value="$PROJECT_DIR$/myloadingdialog" />
             <option value="$PROJECT_DIR$/mysqlite" />
@@ -47,8 +55,12 @@
             <option value="$PROJECT_DIR$/myviewgroup_recyclerview" />
             <option value="$PROJECT_DIR$/phonebkrt" />
             <option value="$PROJECT_DIR$/phonesms" />
+            <option value="$PROJECT_DIR$/recyclerview+checkbox" />
+            <option value="$PROJECT_DIR$/retrofit" />
+            <option value="$PROJECT_DIR$/rxjava" />
             <option value="$PROJECT_DIR$/sharedpreferencedemo" />
             <option value="$PROJECT_DIR$/suspensionwindow" />
+            <option value="$PROJECT_DIR$/wifi+temperature+magnetic" />
           </set>
         </option>
       </GradleProjectSettings>

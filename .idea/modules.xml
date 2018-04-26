@@ -12,6 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/glidetest/glidetest.iml" filepath="$PROJECT_DIR$/glidetest/glidetest.iml" />
       <module fileurl="file://$PROJECT_DIR$/glidetest2/glidetest2.iml" filepath="$PROJECT_DIR$/glidetest2/glidetest2.iml" />
       <module fileurl="file://$PROJECT_DIR$/interlock/interlock.iml" filepath="$PROJECT_DIR$/interlock/interlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvp/mvp.iml" filepath="$PROJECT_DIR$/mvp/mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvp+retrofit+rxjava/mvp+retrofit+rxjava.iml" filepath="$PROJECT_DIR$/mvp+retrofit+rxjava/mvp+retrofit+rxjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/mydialog/mydialog.iml" filepath="$PROJECT_DIR$/mydialog/mydialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/myloadingdialog/myloadingdialog.iml" filepath="$PROJECT_DIR$/myloadingdialog/myloadingdialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/mysqlite/mysqlite.iml" filepath="$PROJECT_DIR$/mysqlite/mysqlite.iml" />
@@ -19,8 +21,12 @@
       <module fileurl="file://$PROJECT_DIR$/myviewgroup_recyclerview/myviewgroup_recyclerview.iml" filepath="$PROJECT_DIR$/myviewgroup_recyclerview/myviewgroup_recyclerview.iml" />
       <module fileurl="file://$PROJECT_DIR$/phonebkrt/phonebkrt.iml" filepath="$PROJECT_DIR$/phonebkrt/phonebkrt.iml" />
       <module fileurl="file://$PROJECT_DIR$/phonesms/phonesms.iml" filepath="$PROJECT_DIR$/phonesms/phonesms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview+checkbox/recyclerview+checkbox.iml" filepath="$PROJECT_DIR$/recyclerview+checkbox/recyclerview+checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofit/retrofit.iml" filepath="$PROJECT_DIR$/retrofit/retrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjava/rxjava.iml" filepath="$PROJECT_DIR$/rxjava/rxjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/sharedpreferencedemo/sharedpreferencedemo.iml" filepath="$PROJECT_DIR$/sharedpreferencedemo/sharedpreferencedemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/suspensionwindow/suspensionwindow.iml" filepath="$PROJECT_DIR$/suspensionwindow/suspensionwindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wifi+temperature+magnetic/wifi+temperature+magnetic.iml" filepath="$PROJECT_DIR$/wifi+temperature+magnetic/wifi+temperature+magnetic.iml" />
     </modules>
   </component>
 </project>
